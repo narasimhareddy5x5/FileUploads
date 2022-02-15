@@ -10,3 +10,7 @@ WHAT CAN YOU REACH IN CASE YOU UPLOADED:
 8. PNG / JPEG ==> PIXEL FLOOD ATTACK 
 9. ZIP ==> RCE via LFI
 10. PDF / PPTX : SSRF / BLIND XXE
+
+
+![Common-MIME types - HTTP _ MDN](https://user-images.githubusercontent.com/87109217/154000067-460d5951-1a8b-4abd-a436-122704206fde.png)
+
